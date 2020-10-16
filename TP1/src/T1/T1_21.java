@@ -5,7 +5,7 @@ import processing.core.PApplet;
 public class T1_21 implements InterfaceProcessingApp{
 	
 	private int backgroundColor = 50;
-	private int logoColor = 50;
+	private int logoColor = 500;
 
 	@Override
 	public void setup(PApplet p) {
